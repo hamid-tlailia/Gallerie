@@ -1,0 +1,34 @@
+{
+  "images" : [
+  {
+    "image_title" : "The scary Forest",
+    "image_description" : "The black and brown thorns wrap around the forest, almost like teeth waiting to tear at you.",
+    "image_src" : "./images/horror-forest.webp"
+  },
+    {
+    "image_title" : "The white Tiger",
+    "image_description" : "The white tiger or bleached tiger is a leucistic pigmentation variant of the mainland Asian tiger.",
+    "image_src" : "./images/white-tiger.webp"
+  },
+  {
+    "image_title" : "The Nature",
+    "image_description" : "the general realm of living plants and animals, and in some cases to the processes associated with inanimate objects 3",
+    "image_src" : "./images/nature.jpg"
+  },
+  {
+    "image_title" : "The Storm",
+    "image_description" : "A storm is an acute disturbance of the atmosphere that is coupled with the mighty wind and usually by heavy or light rain, snow, hail, sleet, or thunder and accompanied by lightning.",
+    "image_src" : "./images/storm.jpg"
+  }, 
+  {
+    "image_title" : "The beauty of Sea",
+    "image_description" : "The sea was calm, pulsing rhythmically and breathing with cadence.",
+    "image_src" : "./images/ceon.webp"
+  },
+  {
+    "image_title" : "The Galaxy",
+    "image_description" : "A galaxy is a huge collection of gas, dust, and billions of stars and their solar systems.",
+    "image_src" : "./images/galaxy.jpg"
+  }
+  ]
+}
